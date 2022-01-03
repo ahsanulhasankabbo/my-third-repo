@@ -4,8 +4,9 @@
     border: 30px solid #f0f023;
     border-radius: 30px;
     margin: 0 auto;
-    width: 700px;
-    height: 480px;
+    width: 900px;
+    height: 645px;
+    margin-bottom: 30px;
 }
 #heading{
 
@@ -23,7 +24,7 @@ small{
     padding: 30px;
 }
 img{
-    width: 600px;
-    height: 200px;
-    margin: 0 50px;
+    width: 900px;
+    height: 400px;
+    margin: 0 ;
 }
