@@ -1,0 +1,29 @@
+
+#myDiv{
+    background-color: aquamarine;
+    border: 30px solid #f0f023;
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 700px;
+    height: 480px;
+}
+#heading{
+
+    text-align: center;
+    color: #ffffff;
+    background-color: rgb(111, 111, 211);
+    padding: 10px 0;
+    margin-top: 0;
+}
+#para{
+    text-align: justify;
+    padding: 10px 30px;
+}
+small{
+    padding: 30px;
+}
+img{
+    width: 600px;
+    height: 200px;
+    margin: 0 50px;
+}
